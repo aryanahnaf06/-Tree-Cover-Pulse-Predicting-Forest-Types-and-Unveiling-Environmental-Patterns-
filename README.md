@@ -70,12 +70,15 @@ Visualization: Matplotlib, Seaborn
 📌 Outcomes
 
 The project delivers robust classification results, providing actionable insights to support sustainable forest management and conservation efforts.
+
 <img width="901" height="576" alt="image" src="https://github.com/user-attachments/assets/d3e08c1f-2152-4455-947c-d93933d78bda" />
 3.2.2 Gradient Boosted Trees Classifier 
 • Implemented with 20 iterations and a maximum depth of 5. 
 • Optimized for multi-class classification.
 <img width="668" height="306" alt="image" src="https://github.com/user-attachments/assets/4e44db49-b74f-4127-a3e2-2c0bc1b55c67" />
 <img width="666" height="420" alt="image" src="https://github.com/user-attachments/assets/08e669d4-5d69-4f8d-9207-7f0baffb7d86" />
+
+
 📈 Results and Analysis
 🔢 4.1 Accuracy Comparison
 

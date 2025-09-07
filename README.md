@@ -1,0 +1,2 @@
+# -Tree-Cover-Pulse-Predicting-Forest-Types-and-Unveiling-Environmental-Patterns-
+Forests are vital for ecology and resources, making accurate cover type classification crucial for management and conservation. Using the covtype.csv dataset with features like elevation and distance to water, this project applies machine learning to predict forest types, aiding policy-making and sustainable planning
